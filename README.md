@@ -16,7 +16,7 @@ HTML5 | CSS3 | JavaScript | Node.js | NPM | GitHub | Git | VSCode | ReactJS | An
 
 
 ## GitHub Stats
-- ⚡ [Github Stats] (https://github-readme-stats.vercel.app/api?username=roshanaale9818&show_icons=true)
+- ⚡ [Github Stats](https://github-readme-stats.vercel.app/api?username=roshanaale9818&show_icons=true)
 
 ## Contact Me
 Feel free to reach out to me via [Email](mailto:roshanaale54@gmail.com) if you have any questions, feedback, or collaboration opportunities.
