@@ -1,6 +1,6 @@
-### Hi there, I am Roshan Aale Magar. a dev Geek👋
+### I am Roshan Aale Magar.
 
-I'm a software developer based in Sydney and Nepal, passionate about creating elegant and efficient solutions for web application.
+I'm a software developer based in Sydney and Nepal, passionate about creating elegant and efficient solutions for web apps.
 
 ## Find Me On
 [Facebook](https://www.facebook.com/profile.php?id=100004829232922) | [LinkedIn](https://www.linkedin.com/in/roshanaale9818/) | [DEV](https://dev.to/roshanaale9818) | [Website] (http://roshanaalemagar.com:3000/))
