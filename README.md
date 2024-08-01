@@ -5,11 +5,29 @@ I'm a software developer based in Sydney and Nepal, passionate about creating el
 ## Find Me On
 [Facebook](https://www.facebook.com/profile.php?id=100004829232922) | [LinkedIn](https://www.linkedin.com/in/roshanaale9818/) | [DEV](https://dev.to/roshanaale9818) | [Website] (http://roshanaalemagar.com:3000/))
 
-## About Me
-- 📱 I’m currently working frontend/backend development!
-- 🌱 I’m currently learning up-to-date technology trends.
-- 💂‍ I’m am always happy to collaborate with other developers.
-- 🥅 2024 Goals: Developing new problem solving application..
+## A little about me
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB6NzV4YXJweGV2Y3F6aHBuOWxucjZ4ZnVmenJleGE0cTRhemphaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifljlMklkBknYdf2Sd/giphy.webp) 
+const roshanaalemagar = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "React", "Node", "Java"],
+    role: "Full-stack Developer",
+    askMeAbout: ["web dev", "tech", "novels","exploring","movies"],
+    technologies: {
+        backEnd: {
+            js: ["Node","Express"],
+        },
+        frontEnd: {
+            js: ["jQuery", "Native", "React","Angular"],
+            css: ["Bootstrap", "Materials", "Native","Tailwind"],
+            html: [4, 5]
+        },
+        devOps: ["Docker🐳",  "Nginx",],
+        databases: ["MySql","PostgresSQL"],
+        misc: ["Firebase", "Socket.IO", "Webpack"]
+    },
+    architecture: ["Progressive web applications", "Single page applications", "REST APIs"],
+    currentFocus: ["Web Development","Problem Solutions"],
+};
 
 ## Technologies
 HTML5 | CSS3 | JavaScript | Node.js | NPM | GitHub | Git | VSCode | ReactJS | AngularJS  SQL | MongoDB | Firebase | PostgresSQL | TypeScript
