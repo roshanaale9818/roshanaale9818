@@ -4,8 +4,9 @@ I'm a software developer based in Sydney and Nepal, passionate about creating el
 
 ## Find Me On
 [Facebook](https://www.facebook.com/profile.php?id=100004829232922) | [LinkedIn](https://www.linkedin.com/in/roshanaale9818/) | [DEV](https://dev.to/roshanaale9818) | [Website] (http://roshanaalemagar.com:3000/))
+---
 
-## A little about me
+### A Little About Me
 <img src="https://media.giphy.com/media/ifljlMklkBknYdf2Sd/giphy.gif" alt="Daily Affirmations" width="100" height="auto">
 ```javascript
 const roshanaalemagar = {
@@ -74,10 +75,10 @@ const roshanaalemagar = {
     "Problem Solutions"
   ]
 };
-```
 
-## Technologies
-HTML5 | CSS3 | JavaScript | Node.js | NPM | GitHub | Git | VSCode | ReactJS | AngularJS  SQL | MongoDB | Firebase | PostgresSQL | TypeScript
+
+## Langugaes
+JavaScript, Java, TypeScript, C#
 
 
 ## GitHub Stats
