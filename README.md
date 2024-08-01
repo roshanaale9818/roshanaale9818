@@ -76,13 +76,12 @@ const roshanaalemagar = {
     "Problem Solutions"
   ]
 };
-
-
-## Langugaes
+```
+### Langugaes
 JavaScript, Java, TypeScript, C#
 
 
-## GitHub Stats
+### GitHub Stats
 - ⚡ [Github Stats](https://github-readme-stats.vercel.app/api?username=roshanaale9818&show_icons=true)
 
 ## Contact Me
