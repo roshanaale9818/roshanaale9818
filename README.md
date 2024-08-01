@@ -6,7 +6,7 @@ I'm a software developer based in Sydney and Nepal, passionate about creating el
 [Facebook](https://www.facebook.com/profile.php?id=100004829232922) | [LinkedIn](https://www.linkedin.com/in/roshanaale9818/) | [DEV](https://dev.to/roshanaale9818) | [Website] (http://roshanaalemagar.com:3000/))
 
 ## A little about me
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB6NzV4YXJweGV2Y3F6aHBuOWxucjZ4ZnVmenJleGE0cTRhemphaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifljlMklkBknYdf2Sd/giphy.webp) 
+<img src="https://media.giphy.com/media/ifljlMklkBknYdf2Sd/giphy.gif" alt="Daily Affirmations" width="300" height="auto">
 const roshanaalemagar = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "React", "Node", "Java"],
