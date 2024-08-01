@@ -74,6 +74,7 @@ const roshanaalemagar = {
     "Problem Solutions"
   ]
 };
+```
 
 ## Technologies
 HTML5 | CSS3 | JavaScript | Node.js | NPM | GitHub | Git | VSCode | ReactJS | AngularJS  SQL | MongoDB | Firebase | PostgresSQL | TypeScript
