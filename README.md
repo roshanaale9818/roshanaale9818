@@ -12,69 +12,24 @@ I'm a software developer based in Sydney and Nepal, passionate about creating el
 ```javascript
 const roshanaalemagar = {
   pronouns: "He | Him",
-  code: [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Node",
-    "Java"
-  ],
+  code: ["JavaScript","TypeScript","React","Node","Java"],
   role: "Full-stack Developer",
-  askMeAbout: [
-    "web dev",
-    "tech",
-    "novels",
-    "exploring",
-    "movies"
-  ],
+  askMeAbout: ["web dev","tech","JavaScript","novels","exploring","movies"],
   technologies: {
     backEnd: {
-      js: [
-        "Node",
-        "Express"
-      ]
-    },
+      js: ["Node","Express"]
+      },
     frontEnd: {
-      js: [
-        "jQuery",
-        "Native",
-        "React",
-        "Angular"
-      ],
-      css: [
-        "Bootstrap",
-        "Materials",
-        "Native",
-        "Tailwind"
-      ],
-      html: [
-        4,
-        5
-      ]
+      js: [jQuery","Native","React","Angular"],
+      css: ["Bootstrap","Materials","Native","Tailwind"],
+      html: [4,5]
     },
-    devOps: [
-      "Docker 🐳",
-      "Nginx"
-    ],
-    databases: [
-      "MySQL",
-      "PostgreSQL"
-    ],
-    misc: [
-      "Firebase",
-      "Socket.IO",
-      "Webpack"
-    ]
+    devOps: ["Docker 🐳","Nginx"],
+    databases: ["MySQL","PostgreSQL"],
+    misc: ["Firebase","Socket.IO","Webpack"]
   },
-  architecture: [
-    "Progressive Web Applications",
-    "Single Page Applications",
-    "REST APIs"
-  ],
-  currentFocus: [
-    "Web Development",
-    "Problem Solutions"
-  ]
+  architecture: ["Progressive Web Applications","Single Page Applications","REST APIs"],
+  currentFocus: ["Web Development","Problem Solving"]
 };
 ```
 ### Langugaes
