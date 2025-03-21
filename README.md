@@ -3,7 +3,7 @@
 I'm a software developer based in Sydney and Nepal, passionate about creating elegant and efficient solutions for web apps.
 
 ## Find Me On
-[Facebook](https://www.facebook.com/profile.php?id=100004829232922) | [LinkedIn](https://www.linkedin.com/in/roshanaale9818/) | [DEV](https://dev.to/roshanaale9818) | [Website] (http://roshanaalemagar.com:3000/))
+[Facebook](https://www.facebook.com/profile.php?id=100004829232922) | [LinkedIn](https://www.linkedin.com/in/roshanaale9818/) | [DEV](https://dev.to/roshanaale9818) | [Website] (https://roshanaale.com/))
 
 <img src="https://media.giphy.com/media/ifljlMklkBknYdf2Sd/giphy.gif" alt="Daily Affirmations" width="100" height="auto"/>
 
