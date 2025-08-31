@@ -44,7 +44,7 @@ Feel free to reach out to me via [Email](mailto:roshanaale54@gmail.com) if you h
 
 ## Let's Connect
 - [LinkedIn]((https://www.linkedin.com/in/roshanaale9818/)
-- [Personal Website/Blog](http://roshanaalemagar.com:3000/)
+- [Personal Website/Blog](http://roshanaale.com)
 
 💻 Made with ❤️ by Roshan aale Magar
 
